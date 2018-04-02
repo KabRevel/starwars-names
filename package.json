@@ -1,6 +1,6 @@
 {
   "name": "startoto-names-",
-  "version": "1.0.0",
+  "version": "1.1.0-beta.0",
   "description": "get random names",
   "main": "src/index.js",
   "scripts": {
